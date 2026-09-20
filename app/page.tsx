@@ -21,7 +21,7 @@ const projects: Project[] = [
     description: "Personal game backlog tracker, session logging, and hardware performance profiles.",
     status: "Planning",
     tags: ["Next.js", "TypeScript", "Tailwind CSS"],
-    href: "#",
+    href: "http://localhost:3002",
   },
 ];
 
